@@ -6,3 +6,19 @@ Over the years, the number of TV shows has increased exponentially and so has th
 
 Our domain is Top TV Shows aired till date. We will use social networking APIs to get the data for entities which represent Companies, Genre, Subcription, Ratings,
 Producers and Consumers for our domain.
+
+
+Tv-show/Movie Recommendation System
+
+TEAM MEMBERS-
+Shreyas Rai 002769838
+Smiti Agrawal 00002781419
+Sarthak Srivastava 002756847
+
+
+GITHUB LINK -
+https://github.com/shreyashusky/tv_Shows_Recommendation_System.git
+
+https://github.com/smitihusky/tvShowRecommendationSystem.git
+
+https://github.com/sarthakhusky/TV-Shows-Recommendation-System.git
